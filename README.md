@@ -19,8 +19,8 @@ DevInsight is an interactive web application designed to analyze and predict dev
 To get a local copy of DevInsight up and running on your machine, follow these steps:
 
 ```bash
-https://github.com/Satwik-uppada/Salary-Prediction-Based-On-Stack-Overflow-Developer-Survey-Using-Machine-Learning.git
-cd Salary-Prediction-Based-On-Stack-Overflow-Developer-Survey-Using-Machine-Learning
+https://github.com/Satwik-uppada/DevInsight.git
+cd DevInsight
 ```
 
 ### Install Dependencies
