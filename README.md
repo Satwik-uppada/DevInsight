@@ -2,8 +2,6 @@
 Predict developer salaries with our app! Analyze factors like country, education, and experience. Gain insights for informed decisions. Try it now!
 ![Salary](https://github.com/Satwik-uppada/Salary-Prediction-Based-On-Stack-Overflow-Developer-Survey-Using-Machine-Learning/assets/92086645/cecd3b44-f163-4943-91f9-95671469b79d)
 
-Certainly! Here's an updated README that includes information about GridSearchCV and the IPython Notebook files:
-
 ---
 
 # DevInsight 📊💼
